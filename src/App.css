@@ -1,0 +1,45 @@
+.App {
+  min-height: 100vh;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-family: 'Poppins', sans-serif;
+  background-size: cover;
+  background-position: center center;
+  padding: 15px;
+  background: linear-gradient(white, #D3D8E8);
+}
+
+.searchField{
+  margin-top: 100px;
+  box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+}
+
+.tableFields{
+  margin-top: 20px
+}
+.align{
+  padding-left:100px;
+  padding-right: 100px
+}
+.navStyles{
+  background-color: #3b5998;
+  font-weight: bolder
+}
+.formField{
+  display: flex;
+  margin-top: 100px;
+  box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+}
+
+.optionsListStyles{
+  background-color: #dff0d8;
+  color: #3c763d
+}
+.selectedOptionsStyles {
+  color: #3c763d;
+  background-color: #dff0d8
+}
