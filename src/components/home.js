@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { Button, Dropdown, DropdownButton, InputGroup, FormControl, Table, Alert, Form} from 'react-bootstrap';
-import {EmpDetailsTable} from "./emp-details-table"
+import {EmpDetailsTable} from "./EmpDetailsTable"
 import axios from "axios";
 
 
